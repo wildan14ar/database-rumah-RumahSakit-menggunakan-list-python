@@ -1,5 +1,8 @@
-This is your template repository!
+Ini adalah hasil pembelajaran Prakerin di SMK IT Ihsanul Fikri.
 
-You will make all changes in the `changes` branch.
+Aku menyelesaikan tugas dari https://www.gamelab.id/ untuk menuntaskan program magang. Di Gamelab aku memilih materi Pemprograman Python dasar dan yang kulakukan adalah mempelajari modul yang telah diberikan dan akan ada tugas seperti:
+- Pertayaan tentang materi 
+- Membuat Project dari apa yang telah di pelajari
+- Typing test
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+di program ini aku satu ankatan menyelesaikan tugas yang telah di berikan......
