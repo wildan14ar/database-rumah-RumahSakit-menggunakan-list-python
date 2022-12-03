@@ -6,3 +6,7 @@ Aku menyelesaikan tugas dari https://www.gamelab.id/ untuk menuntaskan program m
 - Typing test
 
 di program ini aku satu ankatan menyelesaikan tugas yang telah di berikan......
+
+pada linkstart.py adalah program python untuk mendata pasien di rumah sakit, data disimpan dengan array list dan dictionary dari python.
+
+sehingga ketika program di muat ulang data tidak tersimpan permanen, data tersimpan hanya saat program di jalankan.....
